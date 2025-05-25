@@ -38,7 +38,30 @@ With a solid patient-level forecast, future extensions could integrate cost stru
 - NumPy
 - Pandas
 - Matplotlib
-- This project was developed with the support of **ChatGPT**, used extensively for designing simulation logic, vectorization strategies, visualization techniques, and documentation structure.
+- Jupiter
+----
+## 📬 Contact
+
+For feedback, suggestions, or collaboration:
+
+- **Carlo Signorini**
+- [LinkedIn Profile](https://www.linkedin.com/in/carlosignorini/)
+
+---
+
+## 🙏 Acknowledgments
+
+This project benefited from the use of AI assistants such as **Gemini** and **ChatGPT**, which were used extensively for designing simulation logic, vectorization strategies, visualization techniques, and documentation structure.
+
+---
+
+## 📄 License
+
+This project is licensed under the **MIT License**.
+
+> You are free to use, modify, and distribute this project for personal or commercial purposes. Attribution is appreciated but not required.
+
+---
 
 --- 
 ## 📊 Example Output
