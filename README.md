@@ -39,7 +39,7 @@ With a solid patient-level forecast, future extensions could integrate cost stru
 - **Jupyter Notebooks**
 - `pandas`, `numpy`
 - `matplotlib.pyplot`
-- **LLMs Used:** ChatGPT & Gemini
+- **LLMs Used:** ChatGPT
 ----
 ## 📬 Contact
 
@@ -52,7 +52,7 @@ For feedback, suggestions, or collaboration:
 
 ## 🙏 Acknowledgments
 
-This project benefited from the use of AI assistants such as **ChatGPT** and **Gemini**, which were used extensively for designing simulation logic, vectorization strategies, visualization techniques, documentation structure, and some explanation texts.
+This project benefited from the use of AI assistants such as **ChatGPT**, which was used extensively for designing simulation logic, vectorization strategies, visualization techniques, documentation structure, and some explanation texts.
 
 ---
 
