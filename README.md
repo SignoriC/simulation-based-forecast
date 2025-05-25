@@ -18,7 +18,7 @@ This repository provides a modular and vectorized simulation framework for forec
 
 🧬 Simulation Logic Overview
 Below is a conceptual diagram showing how the simulation steps are chained:
-![](../images/DGP_diagram.jpg)
+![Simulation Diagram](../images/DGP_diagram.jpg)
 
 All simulation functions are reusable, modular, well-documented, and stored in `utils.py` and `utils_vect.py`
 
